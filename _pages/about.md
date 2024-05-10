@@ -22,7 +22,7 @@ I received the Ph.D. degree in computer science from the South China University 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/demoire.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Deep Video Demoireing via Compact Invertible Dyadic Decomposition
