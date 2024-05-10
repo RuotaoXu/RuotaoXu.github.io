@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ruotao Xu"
   avatar           : "images/apple-touch-icon.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Institue for Super Robotics"
   location         : "Guangzhou, China"
-  employer         :  "Institue for Super Robotics"
+  employer         :  
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9lfce18AAAAJ&hl=en"
   email            : "rtxu@superobots.com"
