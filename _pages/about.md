@@ -30,11 +30,11 @@ I received the Ph.D. degree in computer science from the South China University 
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    Enhancing texture representation with deep tracing pattern encoding
+  Enhancing texture representation with deep tracing pattern encoding
     
-    Zhile Chen, Yuhui Quan, **Ruotao Xu***, Lianwen Jin, Yong Xu
+  Zhile Chen, Yuhui Quan, **Ruotao Xu***, Lianwen Jin, Yong Xu
     
-    **PR 2024**
+  **PR 2024**
   </div>
 </div>
 
@@ -45,11 +45,11 @@ I received the Ph.D. degree in computer science from the South China University 
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    Image Smoothing via Multiscale Global Perception
+  Image Smoothing via Multiscale Global Perception
     
-    Xuyi He, Yuhui Quan, Yong Xu, **Ruotao Xu***
+  Xuyi He, Yuhui Quan, Yong Xu, **Ruotao Xu***
     
-    **Signal Processing Letter 2024**
+  **Signal Processing Letter 2024**
   </div>
 </div>
 
@@ -60,11 +60,11 @@ I received the Ph.D. degree in computer science from the South China University 
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    Wavelet analysis model inspired convolutional neural networks for image denoising
+  Wavelet analysis model inspired convolutional neural networks for image denoising
     
-    **Ruotao Xu**, Yong Xu, Xuhui Yang, Haoran Huang, Zhenghua Lei, Yuhui Quan
+  **Ruotao Xu**, Yong Xu, Xuhui Yang, Haoran Huang, Zhenghua Lei, Yuhui Quan
     
-    **Applied Mathematical Modelling 2024**
+  **Applied Mathematical Modelling 2024**
   </div>
 </div>
 
@@ -77,11 +77,11 @@ I received the Ph.D. degree in computer science from the South China University 
   </div>
   <div class='paper-box-text' markdown="1">
 
-    Deep Video Demoireing via Compact Invertible Dyadic Decomposition
+  Deep Video Demoireing via Compact Invertible Dyadic Decomposition
 
-    Yuhui Quan, Huang haoran, Shengfeng He, **Ruotao Xu***
+  Yuhui Quan, Huang haoran, Shengfeng He, **Ruotao Xu***
 
-    **ICCV 2023**
+  **ICCV 2023**
   </div>
 </div>
 
@@ -94,11 +94,11 @@ I received the Ph.D. degree in computer science from the South China University 
   </div>
   <div class='paper-box-text' markdown="1">
 
-    Fingerprinting Deep Image Restoration Models
+  Fingerprinting Deep Image Restoration Models
 
-    Yuhui Quan, Huan Teng, **Ruotao Xu***, Jun Huang, Hui Ji
+  Yuhui Quan, Huan Teng, **Ruotao Xu***, Jun Huang, Hui Ji
 
-    **ICCV 2023**
+  **ICCV 2023**
   </div>
 </div>
 
@@ -111,11 +111,11 @@ I received the Ph.D. degree in computer science from the South China University 
   </div>
   <div class='paper-box-text' markdown="1">
 
-    No-reference image quality assessment using dynamic complex-valued neural model
+  No-reference image quality assessment using dynamic complex-valued neural model
 
-    Zihan Zhou, Yong Xu, Ruotao Xu, Yuhui Quan
+  Zihan Zhou, Yong Xu, Ruotao Xu, Yuhui Quan
 
-    **ACM MM 2023**
+  **ACM MM 2023**
   </div>
 </div>
 
@@ -128,11 +128,11 @@ I received the Ph.D. degree in computer science from the South China University 
   </div>
   <div class='paper-box-text' markdown="1">
 
-    Deep blind image quality assessment using dual-order statistics
+  Deep blind image quality assessment using dual-order statistics
 
-    Zihan Zhou, Yong Xu, Yuhui Quan, **Ruotao Xu***
+  Zihan Zhou, Yong Xu, Yuhui Quan, **Ruotao Xu***
 
-    **ICME 2023**
+  **ICME 2023**
   </div>
 </div>
 
@@ -145,11 +145,11 @@ I received the Ph.D. degree in computer science from the South China University 
   </div>
   <div class='paper-box-text' markdown="1">
 
-    Deep scale-aware image smoothing
+  Deep scale-aware image smoothing
 
-    Jiachun Li, Kunkun Qin, **Ruotao Xu***, Hui Ji
+  Jiachun Li, Kunkun Qin, **Ruotao Xu***, Hui Ji
 
-    **ICASSP 2023**
+  **ICASSP 2023**
   </div>
 </div>
 
@@ -162,11 +162,11 @@ I received the Ph.D. degree in computer science from the South China University 
   </div>
   <div class='paper-box-text' markdown="1">
 
-    Multi-view 3D shape recognition via correspondence-aware deep learning
+  Multi-view 3D shape recognition via correspondence-aware deep learning
 
-    Yong Xu, Chaoda Zheng, **Ruotao Xu**, Yuhui Quan, Haibin Ling
+  Yong Xu, Chaoda Zheng, **Ruotao Xu**, Yuhui Quan, Haibin Ling
 
-    **TIP 2021**
+  **TIP 2021**
   </div>
 </div>
 
