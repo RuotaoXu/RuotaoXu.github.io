@@ -22,6 +22,17 @@ I received the Ph.D. degree in computer science from the South China University 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Enhancing texture representation with deep tracing pattern encoding
+
+Chen Zhile, Quan Yuhui, **Ruotao Xu***, Jin Lianwen, Xu Yong
+
+**PR 2024**
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/demoire.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -32,8 +43,6 @@ Yuhui Quan, Huang haoran, Shengfeng He, **Ruotao Xu***
 **ICCV 2023**
 </div>
 </div>
-
-
 # 🎖 Honors and Awards
 - *2023.06* Guangdong Computer Society Excellent Paper First Prize.
 
