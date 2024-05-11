@@ -179,11 +179,11 @@ I received the Ph.D. degree in computer science from the South China University 
   </div>
   <div class='paper-box-text' markdown="1">
 
-    Structure-texture image decomposition using discriminative patch recurrence
+  Structure-texture image decomposition using discriminative patch recurrence
 
-    **Ruotao Xu**, Yong Xu, Yuhui Quan
+  **Ruotao Xu**, Yong Xu, Yuhui Quan
 
-    **TIP 2021**
+  **TIP 2021**
   </div>
 </div>
 
@@ -196,11 +196,11 @@ I received the Ph.D. degree in computer science from the South China University 
   </div>
   <div class='paper-box-text' markdown="1">
 
-    Factorized tensor dictionary learning for visual tensor data completion
+  Factorized tensor dictionary learning for visual tensor data completion
 
-    **Ruotao Xu**, Yong Xu, Yuhui Quan
+  **Ruotao Xu**, Yong Xu, Yuhui Quan
 
-    **TMM 2021**
+  **TMM 2021**
   </div>
 </div>
 
@@ -213,11 +213,11 @@ I received the Ph.D. degree in computer science from the South China University 
   </div>
   <div class='paper-box-text' markdown="1">
 
-    Image quality assessment using kernel sparse coding
+  Image quality assessment using kernel sparse coding
 
-    Zihan Zhou, Jing Li, Yuhui Quan, **Ruotao Xu**
+  Zihan Zhou, Jing Li, Yuhui Quan, **Ruotao Xu**
 
-    **TMM 2021**
+  **TMM 2021**
   </div>
 </div>
 
@@ -230,11 +230,11 @@ I received the Ph.D. degree in computer science from the South China University 
   </div>
   <div class='paper-box-text' markdown="1">
 
-    Cartoon-texture image decomposition using orientation characteristics in patch recurrence
+  Cartoon-texture image decomposition using orientation characteristics in patch recurrence
 
-    **Ruotao Xu**, Yong Xu, Yuhui Quan, Hui Ji
+  **Ruotao Xu**, Yong Xu, Yuhui Quan, Hui Ji
 
-    **SIAM Journal on Imaging Sciences 2020**
+  **SIAM Journal on Imaging Sciences 2020**
   </div>
 </div>
 
@@ -247,11 +247,11 @@ I received the Ph.D. degree in computer science from the South China University 
   </div>
   <div class='paper-box-text' markdown="1">
 
-    Attention with structure regularization for action recognition
+  Attention with structure regularization for action recognition
 
-    Yuhui Quan, Yixin Chen, **Ruotao Xu***, Hui Ji
+  Yuhui Quan, Yixin Chen, **Ruotao Xu***, Hui Ji
 
-    **CVIU 2019**
+  **CVIU 2019**
   </div>
 </div>
 
