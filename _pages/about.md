@@ -264,11 +264,11 @@ I received the Ph.D. degree in computer science from the South China University 
   </div>
   <div class='paper-box-text' markdown="1">
 
-    Removing reflection from a single image with ghosting effect
+  Removing reflection from a single image with ghosting effect
 
-    Yan Huang, Yuhui Quan, Yong Xu, **Ruotao Xu**, Hui Ji
+  Yan Huang, Yuhui Quan, Yong Xu, **Ruotao Xu**, Hui Ji
 
-    **TCI 2019**
+  **TCI 2019**
   </div>
 </div>
 
