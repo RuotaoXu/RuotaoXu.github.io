@@ -26,7 +26,7 @@ I received the Ph.D. degree in computer science from the South China University 
   <div class='paper-box-image'>
     <div>
       <div class="badge">PR 2024</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/PR24texture.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -41,7 +41,7 @@ I received the Ph.D. degree in computer science from the South China University 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/SPL24smoothing.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -56,7 +56,7 @@ I received the Ph.D. degree in computer science from the South China University 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/AMM24denoising.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -72,7 +72,7 @@ I received the Ph.D. degree in computer science from the South China University 
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICCV 2023</div>
-      <img src='images/demoire.png' alt="sym" width="100%">
+      <img src='images/ICCV23demoire.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -89,7 +89,7 @@ I received the Ph.D. degree in computer science from the South China University 
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICCV 2023</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/ICCV23fingerpirnt.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -106,7 +106,7 @@ I received the Ph.D. degree in computer science from the South China University 
   <div class='paper-box-image'>
     <div>
       <div class="badge">ACM MM 2023</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/MM23IQA.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -123,7 +123,7 @@ I received the Ph.D. degree in computer science from the South China University 
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICME 2023</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/icme23iqa.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
