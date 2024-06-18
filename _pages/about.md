@@ -191,7 +191,7 @@ I received the Ph.D. degree in computer science from the South China University 
   <div class='paper-box-image'>
     <div>
       <div class="badge">TMM 2021</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/TMM21tensor.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -208,7 +208,7 @@ I received the Ph.D. degree in computer science from the South China University 
   <div class='paper-box-image'>
     <div>
       <div class="badge">TMM 2021</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/TMM21IQA.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -225,7 +225,7 @@ I received the Ph.D. degree in computer science from the South China University 
   <div class='paper-box-image'>
     <div>
       <div class="badge">SIIMS 2020</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/SIIMS20decom.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -242,7 +242,7 @@ I received the Ph.D. degree in computer science from the South China University 
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVIU 2019</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/CVIU19att.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -259,7 +259,7 @@ I received the Ph.D. degree in computer science from the South China University 
   <div class='paper-box-image'>
     <div>
       <div class="badge">TCI 2019</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/TCI19reflection.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
