@@ -140,7 +140,7 @@ I received the Ph.D. degree in computer science from the South China University 
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICASSP 2023</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/ICASSP23scale.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -157,7 +157,7 @@ I received the Ph.D. degree in computer science from the South China University 
   <div class='paper-box-image'>
     <div>
       <div class="badge">TIP 2021</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/TIP21multiview.jpg' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -174,7 +174,7 @@ I received the Ph.D. degree in computer science from the South China University 
   <div class='paper-box-image'>
     <div>
       <div class="badge">TIP 2021</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/TIP21decom.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
