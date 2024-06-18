@@ -286,3 +286,7 @@ My research interests lie at the intersection of robotics, computer vision, imag
 - *2016.06 - 2016.11*, MSRA, Beijing, China.
   
 # 🔎Projects
+- Research on Key Techniques of Image Inpainting Based on Structured Attention Mechanism, Postdoctoral Project, 2020M682705, 2020-09~2023-09, Principal Investigator, 80,000 CNY
+- Research on Deep Attention Mechanism for Visual Data Restoration, National Natural Science Foundation of China (NSFC) Young Scientist Fund, 62106077, 2022-01~2024-12, Principal Investigator, 300,000 CNY
+- Research on Defocus Deblurring Model and Algorithm Driven by Shape Prior, Provincial Natural Science Foundation, 2022A1515011087, 2022-01~2024-12, Principal Investigator, 100,000 CNY
+- Research on Deep Learning Model and Algorithm for Defocus Image Deblurring, Special Fund, 2022T150219, 2022-09~2023-09, Principal Investigator, 180,000 CNY
