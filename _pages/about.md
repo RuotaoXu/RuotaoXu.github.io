@@ -23,6 +23,21 @@ My research interests lie at the intersection of robotics, computer vision, imag
 
 
 # 📝 Publications 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">PR 2024</div>
+      <img src='images/3DV24PUSDF.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  PU-SDF: Arbitrary-Scale Uniformly Upsampling Point Clouds via Signed Distance Functions
+    
+  Shaohui Pan, Yong Xu, **Ruotao Xu***
+    
+  **3DV 2024**
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
