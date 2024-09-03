@@ -35,7 +35,7 @@ My research interests lie at the intersection of robotics, computer vision, imag
     
   Yong Xu, Shaohui Pan, **Ruotao Xu***, Haibin Ling
     
-  **3DV 2024**
+  **CVIU 2024**
   </div>
 </div>
 
