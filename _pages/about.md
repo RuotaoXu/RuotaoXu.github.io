@@ -33,7 +33,7 @@ My research interests lie at the intersection of robotics, computer vision, imag
   <div class='paper-box-text' markdown="1">
   View-aligned pixel-level feature aggregation for 3D shape classification
     
-  Yong Xu, Shaohui Pan, **Ruotao X*u**, Haibin Ling
+  Yong Xu, Shaohui Pan, **Ruotao Xu***, Haibin Ling
     
   **3DV 2024**
   </div>
