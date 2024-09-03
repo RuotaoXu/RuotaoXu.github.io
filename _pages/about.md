@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. degree in Computer Science from the South China University of Technology in 2020. Currently, I am a Postdoctoral Researcher in the Department of Computer Science at the same university. In addition to my postdoctoral work, I am also serving as an Associate Researcher at the Institute of Super Robotics in Huangpu.
+I received my Ph.D. degree in Computer Science from the South China University of Technology in 2020. Currently, I am a Postdoctoral Researcher in the Department of Computer Science at the same university. I am now serving as an Associate Researcher at the Institute of Super Robotics in Huangpu.
 
 My research interests lie at the intersection of robotics, computer vision, image processing, and sparse coding. I am particularly interested in exploring how these fields can be integrated to develop advanced robotic systems capable of intelligent perception and interaction with their environment.
 
