@@ -26,6 +26,22 @@ My research interests lie at the intersection of robotics, computer vision, imag
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">CVIU 2024</div>
+      <img src='images/CVIU24multiview.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  View-aligned pixel-level feature aggregation for 3D shape classification
+    
+  Yong Xu, Shaohui Pan, **Ruotao X*u**, Haibin Ling
+    
+  **3DV 2024**
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">PR 2024</div>
       <img src='images/3DV24PUSDF.png' alt="sym" width="100%">
     </div>
@@ -122,7 +138,7 @@ My research interests lie at the intersection of robotics, computer vision, imag
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ACM MM 2023</div>
+      <div class="badge">ACM MM 2022</div>
       <img src='images/MM23IQA.png' alt="sym" width="100%">
     </div>
   </div>
@@ -132,7 +148,7 @@ My research interests lie at the intersection of robotics, computer vision, imag
 
   Zihan Zhou, Yong Xu, Ruotao Xu, Yuhui Quan
 
-  **ACM MM 2023**
+  **ACM MM 2022**
   </div>
 </div>
 
@@ -149,14 +165,14 @@ My research interests lie at the intersection of robotics, computer vision, imag
 
   Zihan Zhou, Yong Xu, Yuhui Quan, **Ruotao Xu***
 
-  **ICME 2023**
+  **ICME 2022**
   </div>
 </div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICASSP 2023</div>
+      <div class="badge">ICASSP 2022</div>
       <img src='images/ICASSP23scale.png' alt="sym" width="100%">
     </div>
   </div>
@@ -166,7 +182,7 @@ My research interests lie at the intersection of robotics, computer vision, imag
 
   Jiachun Li, Kunkun Qin, **Ruotao Xu***, Hui Ji
 
-  **ICASSP 2023**
+  **ICASSP 2022**
   </div>
 </div>
 
