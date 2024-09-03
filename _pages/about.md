@@ -42,7 +42,7 @@ My research interests lie at the intersection of robotics, computer vision, imag
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">PR 2024</div>
+      <div class="badge">3DV 2024</div>
       <img src='images/3DV24PUSDF.png' alt="sym" width="100%">
     </div>
   </div>
