@@ -27,6 +27,22 @@ My research interests lie at the intersection of robotics, computer vision, imag
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVIU 2024</div>
+      <img src='images/images/PAMI24defocus.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  Deep Single Image Defocus Deblurring via Gaussian Kernel Mixture Learning
+    
+  Yuhui Quan, Zicong Wu, **Ruotao Xu***, Hui Ji
+    
+  **TPAMI 2024**
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVIU 2024</div>
       <img src='images/CVIU24multiview.jpg' alt="sym" width="100%">
     </div>
   </div>
