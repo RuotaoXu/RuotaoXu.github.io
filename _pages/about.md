@@ -27,7 +27,7 @@ My research interests lie at the intersection of robotics, computer vision, imag
   <div class='paper-box-image'>
     <div>
       <div class="badge">TPAMI 2024</div>
-      <img src='images/images/PAMI24defocus.png' alt="sym" width="100%">
+      <img src='images/PAMI24defocus.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -43,14 +43,14 @@ My research interests lie at the intersection of robotics, computer vision, imag
   <div class='paper-box-image'>
     <div>
       <div class="badge">SPL 2024</div>
-      <img src='images/images/images/SPL24demoire.png.png' alt="sym" width="100%">
+      <img src='images/SPL24demoire.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
   Spatial Adaptive Filter Network With Scale-Sharing Convolution for Image Demoiréing
     
   Yong Xu , Zhiyu Wei , **Ruotao Xu***, Zihan Zhou, Zhuliang Yu
-  
+
   **Signal Processing Letter 2024**
   </div>
 </div>
