@@ -22,6 +22,84 @@ redirect_from:
 
 
 # 📝 已发表论文
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TPAMI 2024</div>
+      <img src='images/AAAI25foresight.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  Self-Correcting Robot Manipulation via Gaussian-Splatted Foresight
+    
+  Shaohui Pan, Yong Xu, **Ruotao Xu***, Zihan Zhou, Si Wu, Zhuliang Yu
+    
+  **AAAI 2025**
+  </div>
+</div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TPAMI 2024</div>
+      <img src='images/PAMI24defocus.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  Deep Single Image Defocus Deblurring via Gaussian Kernel Mixture Learning
+    
+  Yuhui Quan, Zicong Wu, **Ruotao Xu***, Hui Ji
+    
+  **TPAMI 2024**
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">SPL 2024</div>
+      <img src='images/SPL24demoire.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  Spatial Adaptive Filter Network With Scale-Sharing Convolution for Image Demoiréing
+    
+  Yong Xu , Zhiyu Wei , **Ruotao Xu***, Zihan Zhou, Zhuliang Yu
+
+  **Signal Processing Letter 2024**
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVIU 2024</div>
+      <img src='images/CVIU24multiview.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  View-aligned pixel-level feature aggregation for 3D shape classification
+    
+  Yong Xu, Shaohui Pan, **Ruotao Xu***, Haibin Ling
+    
+  **CVIU 2024**
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">3DV 2024</div>
+      <img src='images/3DV24PUSDF.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  PU-SDF: Arbitrary-Scale Uniformly Upsampling Point Clouds via Signed Distance Functions
+    
+  Shaohui Pan, Yong Xu, **Ruotao Xu***
+    
+  **3DV 2024**
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
