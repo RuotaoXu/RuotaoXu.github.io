@@ -26,7 +26,7 @@ My research interests lie at the intersection of robotics, computer vision, imag
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">TPAMI 2024</div>
+      <div class="badge">AAAI 2024</div>
       <img src='images/AAAI25foresight.png' alt="sym" width="100%">
     </div>
   </div>
