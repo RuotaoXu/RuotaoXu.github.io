@@ -26,6 +26,70 @@ My research interests lie at the intersection of robotics, computer vision, imag
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">ICME 2025</div>
+      <img src='images/ICME25planning.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  Rethinking 3D Robotic Perception: Elastic Voxel Representation with Splatting Distillation
+    
+  Shaohui Pan, Yong Xu, **Ruotao Xu***, Si Wu, Zhuliang Yu, Patrick Le Callet
+    
+  **ICME 2025**
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICME 2025</div>
+      <img src='images/ICME25planning.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  Text to Trajectory: Enhancing and Evaluating LLMs for Embodied Task Planning
+    
+  Yihan Tang, Yong Xu, **Ruotao Xu***, Yan Huang, Si Wu, Patrick Le Callet
+    
+  **ICME 2025**
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2024</div>
+      <img src='images/CVPR25transformer.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  A universal scale-adaptive deformable transformer for image restoration across diverse artifacts
+    
+   Xuyi He, Yuhui Quan, **Ruotao Xu***, Hui Ji
+    
+  **CVPR 2025**
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NN 2024</div>
+      <img src='images/NN24Debanding.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  Image debanding using cross-scale invertible networks with banded deformable convolutions
+    
+  Yuhui Quan, Xuyi He, **Ruotao Xu***, Hui Ji
+    
+  **Neural Networks 2025**
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">AAAI 2024</div>
       <img src='images/AAAI25foresight.png' alt="sym" width="100%">
     </div>
