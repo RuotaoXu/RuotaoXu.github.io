@@ -58,7 +58,7 @@ My research interests lie at the intersection of robotics, computer vision, imag
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">CVPR 2024</div>
+      <div class="badge">CVPR 2025</div>
       <img src='images/CVPR25transformer.png' alt="sym" width="100%">
     </div>
   </div>
@@ -74,7 +74,7 @@ My research interests lie at the intersection of robotics, computer vision, imag
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">NN 2024</div>
+      <div class="badge">NN 2025</div>
       <img src='images/NN24Debanding.png' alt="sym" width="100%">
     </div>
   </div>
