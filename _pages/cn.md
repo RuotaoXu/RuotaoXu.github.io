@@ -25,7 +25,39 @@ redirect_from:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">AAAI 2024</div>
+      <div class="badge">CVPR 2025</div>
+      <img src='images/CVPR25transformer.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  A universal scale-adaptive deformable transformer for image restoration across diverse artifacts
+    
+   Xuyi He, Yuhui Quan, **Ruotao Xu***, Hui Ji
+    
+  **CVPR 2025**
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NN 2025</div>
+      <img src='images/NN24Debanding.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  Image debanding using cross-scale invertible networks with banded deformable convolutions
+    
+  Yuhui Quan, Xuyi He, **Ruotao Xu***, Hui Ji
+    
+  **Neural Networks 2025**
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">AAAI 2025 (Oral)</div>
       <img src='images/AAAI25foresight.png' alt="sym" width="100%">
     </div>
   </div>
@@ -34,7 +66,7 @@ redirect_from:
     
   Shaohui Pan, Yong Xu, **Ruotao Xu***, Zihan Zhou, Si Wu, Zhuliang Yu
     
-  **AAAI 2025**
+  **AAAI 2025 (Oral)**
   </div>
 </div>
 <div class='paper-box'>

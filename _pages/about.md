@@ -61,7 +61,7 @@ My research interests lie at the intersection of robotics, computer vision, imag
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">AAAI 2024</div>
+      <div class="badge">AAAI 2025 (Oral)</div>
       <img src='images/AAAI25foresight.png' alt="sym" width="100%">
     </div>
   </div>
@@ -70,7 +70,7 @@ My research interests lie at the intersection of robotics, computer vision, imag
     
   Shaohui Pan, Yong Xu, **Ruotao Xu***, Zihan Zhou, Si Wu, Zhuliang Yu
     
-  **AAAI 2025**
+  **AAAI 2025 (Oral)**
   </div>
 </div>
 <div class='paper-box'>
