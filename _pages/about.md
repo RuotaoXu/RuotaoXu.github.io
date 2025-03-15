@@ -24,9 +24,6 @@ My research interests lie at the intersection of robotics, computer vision, imag
 
 # 📝 Publications 
 <div class='paper-box'>
-
-
-<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2025</div>
