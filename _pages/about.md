@@ -65,7 +65,7 @@ My research interests lie at the intersection of robotics, computer vision, imag
   <div class='paper-box-text' markdown="1">
   Text to Trajectory: Enhancing and Evaluating LLMs for Embodied Task Planning
     
-   Yihan Tang, Yong Xu, Ruotao Xu, Yan Huang, Si Wu, Patrick Le Callet
+   Yihan Tang, Yong Xu, **Ruotao Xu***, Yan Huang, Si Wu, Patrick Le Callet
     
   **ICME 2025**
   </div>
